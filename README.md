@@ -6,7 +6,7 @@ __General__
 - Header: Logo/Nav
 
 __Home/Index__
-- Introductory paragraphs for each of the four others pages, with "More Info" buttons
+- Introductory paragraphs for each of the four other pages, with "More Info" buttons
 - Image: Banner
 - Outside Link: WWU
 
