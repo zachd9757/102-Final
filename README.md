@@ -37,10 +37,10 @@ __Contact__
  - **COLORS**. At most 3 colors using the 60-30-10 rule.
  
 **USABILITY**
-**LAYOUT**. The arrangement of text and images on each page should be attractive and well-organized.
-**NAVIGATION**. Each page links to each of the others. The navigation must be visible without scrolling and located in the same place on every page. The only exception is the page that serves as a "pop-up".
-**CONSISTENCY**. All pages are consistent with the layout: navigation, content, logo, etc. are always in the same place on the page.
-**TEXT**. The text is large enough to read, contrasts strongly with the background color(s), and is pertinent to the site (avoid Lorem Ipsum).
-**IMAGE SIZES**. Each image should be original. Avoid copying online without giving credit to the original source.
-**TITLES**. Each page must have a logical <title> element that identifies both the website and the topic of the page.
-**JavaScript**. Add interactivity to at least one page.
+- **LAYOUT**. The arrangement of text and images on each page should be attractive and well-organized.
+- **NAVIGATION**. Each page links to each of the others. The navigation must be visible without scrolling and located in the same place on every page. The only exception is the page that serves as a "pop-up".
+- **CONSISTENCY**. All pages are consistent with the layout: navigation, content, logo, etc. are always in the same place on the page.
+- **TEXT**. The text is large enough to read, contrasts strongly with the background color(s), and is pertinent to the site (avoid Lorem Ipsum).
+- **IMAGE SIZES**. Each image should be original. Avoid copying online without giving credit to the original source.
+- **TITLES**. Each page must have a logical <title> element that identifies both the website and the topic of the page.
+- **JavaScript**. Add interactivity to at least one page.
