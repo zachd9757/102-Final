@@ -20,10 +20,10 @@ __Team__
 __Contact__
 - *Table* for contact/personal info on team members
 
-REQUIREMENTS
--TEXT. Each page must have at least one heading (e.g. <h1>) and at least one paragraph of text. This text must be styled in CSS.
--IMAGES. Each page must have at least one image (it can be the same image.)
--LINKS. Each page must have at least one link to an outside URL (URL that links to somewhere outside the site). Styling the links in CSS is optional. E.g. social media links (facebook, Instagram, twitter etc.)
--TABLE. At least one page must have a table. The table must have a row (<tr>) of table headers (<th>) at the top and at least one row of table cells (<td>). The table must have at least two columns of data. The table must have some CSS styling.
--LIST. At least one page must have a list. The list must be coded as an HTML list (<ol>, <ul>, <li>, etc.). The list must have some CSS styling.
--COLORS. At most 3 colors using the 60-30-10 rule.
+**REQUIREMENTS**
+ - TEXT. Each page must have at least one heading (e.g. <h1>) and at least one paragraph of text. This text must be styled in CSS.
+ - IMAGES. Each page must have at least one image (it can be the same image.)
+ - LINKS. Each page must have at least one link to an outside URL (URL that links to somewhere outside the site). Styling the links in CSS is optional. E.g. social media links (facebook, Instagram, twitter etc.)
+ - TABLE. At least one page must have a table. The table must have a row (<tr>) of table headers (<th>) at the top and at least one row of table cells (<td>). The table must have at least two columns of data. The table must have some CSS styling.
+ - LIST. At least one page must have a list. The list must be coded as an HTML list (<ol>, <ul>, <li>, etc.). The list must have some CSS styling.
+ - COLORS. At most 3 colors using the 60-30-10 rule.
