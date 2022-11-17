@@ -20,7 +20,7 @@ __Team__
 __Contact__
 - *Table* for contact/personal info on team members
 
-**REQUIREMENTS**
+REQUIREMENTS
 -TEXT. Each page must have at least one heading (e.g. <h1>) and at least one paragraph of text. This text must be styled in CSS.
 -IMAGES. Each page must have at least one image (it can be the same image.)
 -LINKS. Each page must have at least one link to an outside URL (URL that links to somewhere outside the site). Styling the links in CSS is optional. E.g. social media links (facebook, Instagram, twitter etc.)
