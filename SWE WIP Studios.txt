@@ -1,0 +1,6 @@
+Hi There!
+
+My name is Calvin. I'm one of the Programmers at WIP Studios. My area of preference in Computer Science
+is Computer Systems. My prefrerred programming languages are C, Python, Rust, MATLAB, and Java.
+Other than programming, I love to tinker with Electronics, Cook, go on hikes, play with my dog Shaun,
+and play video games.
